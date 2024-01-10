@@ -1,4 +1,4 @@
-# Textual Analysis Tool
+ Textual Analysis Tool
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
